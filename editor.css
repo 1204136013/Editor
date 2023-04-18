@@ -1,5 +1,6 @@
 #editor {
     color: grey;
+    border: 1px solid black;
 }
 
 #editor .keyword {
