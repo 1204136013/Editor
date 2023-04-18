@@ -1,0 +1,15 @@
+#editor {
+    color: grey;
+}
+
+#editor .keyword {
+    color: #cc6a2c;
+}
+
+#editor .number {
+    color: #6897bb;
+}
+
+#editor .var {
+    color: #ffb86d;
+}
